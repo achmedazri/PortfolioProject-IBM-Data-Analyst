@@ -2,7 +2,7 @@
 IBM Data Analyst Professional Capstone project
 
 In this capstone project, assuming myself as Data Analyst at global IT company, I have been tasked with collecting data from various sources, data cleaning, exploratory data analysis, data visualisation, and dashboarding to identify trends for this year's report on emerging skills. 
-The key issues in this projects are to answer below questions;
+The key issues in this projects is to answer below questions;
 
 1. What are the top programming languages in demand?
 
